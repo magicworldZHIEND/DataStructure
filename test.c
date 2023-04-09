@@ -9,5 +9,6 @@ int main(void) {
   }
 
   printf("How about update?\n");
+  printf("How about update2?\n");
   return 0;
 }

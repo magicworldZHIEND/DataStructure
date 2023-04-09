@@ -5,7 +5,9 @@ int main(void) {
   printf("Hello World\n");
 
   for (int i = 10; i <= 29; i++) {
-    printf("Thanks\n");
+    printf("this is Git Test\n");
   }
+
+  printf("How about update?\n");
   return 0;
 }
